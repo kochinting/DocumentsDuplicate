@@ -1,5 +1,5 @@
 """
-Quora SW engineer Coding Challenge
+SW engineer Coding Challenge
 Duplicate
 Chin-Ting Ko  05/03/2017
 
